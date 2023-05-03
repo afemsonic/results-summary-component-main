@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View solution url]([https://your-solution-url.com](https://github.com/afemsonic/results-summary-component-main)
+- Solution URL: [View solution url](https://github.com/afemsonic/results-summary-component-main)
 - Live Site URL: [View live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -62,7 +62,7 @@ I'll like to learn more about how to handle data.json file and how to integrate 
 
 ### Useful resources
 
-- (https://www.w3schools.com/css/css3_gradients.asp) - This is an amazing article which helped me finally understand the right way to apply gradients in css. I'd recommend it to anyone still learning this concept.
+- [CSS Gradient Guide by W3school](https://www.w3schools.com/css/css3_gradients.asp) - This is an amazing article which helped me finally understand the right way to apply gradients in css. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
