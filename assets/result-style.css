@@ -23,7 +23,7 @@ main{
     ;
     color: #fff;
     text-align: center;
-    border-radius: 20px;
+    border-radius:20px;
     padding: 20px 0;
 }
 
@@ -62,7 +62,6 @@ img{
 .second-section{
 width: 90%;
 margin: 0 auto;
-
 }
 
 .flex-container{
@@ -71,25 +70,18 @@ display: flex;
 margin-bottom: 20px;
 ;
 border-radius: 10px;
-/* justify-content: space-between; */
 }
 
 .flex-container img{
 margin: 0 30px;
 }
 
-/* .numbers{
-margin-left:50%;
-} */
 .criteria{
     width: 15%;
     /* outline: 2px solid red; */
     margin-right: 26vw;
 }
 
-/* .num{
-    margin-left:53%;
-} */
 
 .but{
 text-decoration: none;
@@ -149,18 +141,21 @@ color: #fff;
 
 
 .second-section,.hero{
-    width: 45%;
+    width: 46%;
+}
+
+body{
+    padding: 100px 0;
 }
 
 main{
     display: flex;
-    width: 80%;
-    /* justify-content: center; */
-    /* align-items: space-between;  */
-    justify-content: space-between;
+    width: 70%;
     margin: 0 auto;
     max-width: 700px;
-    padding: 150px 0px;
+    box-shadow:0px 4px 10px rgb(141, 141, 247);
+    border-radius: 20px;
+
 }
 
 .criteria{
@@ -179,7 +174,4 @@ main{
     display: block;
 }
 
-.second-section{
-box-shadow:2px ;
-}
 }
