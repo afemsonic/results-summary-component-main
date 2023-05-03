@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [View solution url](https://github.com/afemsonic/results-summary-component-main)
-- Live Site URL: [View live site URL here](https://your-live-site-url.com](https://afemsonic.github.io/results-summary-component-main/)
+- Live Site URL: [View live site URL here](https://afemsonic.github.io/results-summary-component-main/)
 
 ## My process
 
