@@ -140,8 +140,12 @@ color: #fff;
 @media (min-width:700px){
 
 
-.second-section,.hero{
-    width: 46%;
+.second-section{
+    width: 40%;
+}
+
+.hero{
+    width: 50%;
 }
 
 body{
